@@ -2,3 +2,4 @@
 LeetCode Problems
 
 ![](https://leetcard.jacoblin.cool/Sachan_123?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Sachan_123?ext=heatmap)
