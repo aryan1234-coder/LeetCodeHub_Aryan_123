@@ -32,4 +32,8 @@ LeetCode Problems
 | ------- |
 | [1153-product-sales-analysis-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
