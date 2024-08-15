@@ -14,6 +14,7 @@ LeetCode Problems
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0870-magic-squares-in-grid) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0890-lemonade-change](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0890-lemonade-change) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Dynamic Programming
 |  |
@@ -57,4 +58,8 @@ LeetCode Problems
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0870-magic-squares-in-grid) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
