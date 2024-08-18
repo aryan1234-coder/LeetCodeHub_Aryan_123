@@ -23,6 +23,7 @@ LeetCode Problems
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0264-ugly-number-ii) |
 | [0435-non-overlapping-intervals](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0435-non-overlapping-intervals) |
 ## Two Pointers
 |  |
@@ -56,10 +57,12 @@ LeetCode Problems
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0870-magic-squares-in-grid) |
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0870-magic-squares-in-grid) |
 ## Matrix
 |  |
@@ -72,4 +75,8 @@ LeetCode Problems
 | [0455-assign-cookies](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0890-lemonade-change) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
