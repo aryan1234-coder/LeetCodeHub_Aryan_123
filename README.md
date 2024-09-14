@@ -21,6 +21,7 @@ LeetCode Problems
 | [1435-xor-queries-of-a-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1435-xor-queries-of-a-subarray) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Dynamic Programming
 |  |
@@ -75,6 +76,7 @@ LeetCode Problems
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0870-magic-squares-in-grid) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Greedy
 |  |
 | ------- |
@@ -113,4 +115,8 @@ LeetCode Problems
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Simulation
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
