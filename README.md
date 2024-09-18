@@ -11,6 +11,7 @@ LeetCode Problems
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0624-maximum-distance-in-arrays) |
@@ -45,6 +46,7 @@ LeetCode Problems
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -81,6 +83,7 @@ LeetCode Problems
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0624-maximum-distance-in-arrays) |
@@ -104,6 +107,7 @@ LeetCode Problems
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0179-largest-number) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Counting
