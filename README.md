@@ -150,4 +150,5 @@ LeetCode Problems
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
