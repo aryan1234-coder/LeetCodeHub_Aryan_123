@@ -31,6 +31,7 @@ LeetCode Problems
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3483-alternating-groups-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3483-alternating-groups-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -173,4 +174,5 @@ LeetCode Problems
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->
