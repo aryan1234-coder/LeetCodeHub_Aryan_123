@@ -9,6 +9,7 @@ LeetCode Problems
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0179-largest-number) |
@@ -56,6 +57,7 @@ LeetCode Problems
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0162-find-peak-element) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0882-peak-index-in-a-mountain-array) |
