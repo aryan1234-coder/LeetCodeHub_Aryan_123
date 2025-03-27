@@ -38,6 +38,7 @@ LeetCode Problems
 | [2551-apply-operations-to-an-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-alternating-groups-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3483-alternating-groups-ii) |
 ## Dynamic Programming
@@ -85,6 +86,7 @@ LeetCode Problems
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Database
 |  |
 | ------- |
@@ -106,6 +108,7 @@ LeetCode Problems
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Math
 |  |
 | ------- |
