@@ -44,6 +44,7 @@ LeetCode Problems
 | [2888-minimum-index-of-a-valid-split](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-alternating-groups-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3643-zero-array-transformation-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,6 +79,7 @@ LeetCode Problems
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2690-house-robber-iv](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2690-house-robber-iv) |
+| [3643-zero-array-transformation-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -185,6 +187,7 @@ LeetCode Problems
 | [0410-split-array-largest-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0410-split-array-largest-sum) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [3643-zero-array-transformation-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3643-zero-array-transformation-ii) |
 ## Brainteaser
 |  |
 | ------- |
