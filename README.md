@@ -106,6 +106,7 @@ LeetCode Problems
 | [0021-merge-two-sorted-lists](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0725-split-linked-list-in-parts](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0725-split-linked-list-in-parts) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2573-remove-nodes-from-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Hash Table
@@ -128,6 +129,7 @@ LeetCode Problems
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0870-magic-squares-in-grid](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0870-magic-squares-in-grid) |
 | [1307-ugly-number-iii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1307-ugly-number-iii) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
