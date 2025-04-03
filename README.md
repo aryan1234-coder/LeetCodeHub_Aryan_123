@@ -57,6 +57,7 @@ LeetCode Problems
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0455-assign-cookies) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1923-sentence-similarity-iii) |
@@ -105,6 +106,7 @@ LeetCode Problems
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0725-split-linked-list-in-parts) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2573-remove-nodes-from-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2573-remove-nodes-from-linked-list) |
