@@ -103,6 +103,7 @@ LeetCode Problems
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0725-split-linked-list-in-parts](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0725-split-linked-list-in-parts) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -200,6 +201,7 @@ LeetCode Problems
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0021-merge-two-sorted-lists) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
 |  |
