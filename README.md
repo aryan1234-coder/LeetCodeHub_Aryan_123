@@ -218,6 +218,7 @@ LeetCode Problems
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0386-lexicographical-numbers) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Trie
 |  |
 | ------- |
@@ -244,12 +245,19 @@ LeetCode Problems
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
