@@ -222,6 +222,7 @@ LeetCode Problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0386-lexicographical-numbers) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -256,6 +257,7 @@ LeetCode Problems
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -280,6 +282,7 @@ LeetCode Problems
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -293,6 +296,7 @@ LeetCode Problems
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0199-binary-tree-right-side-view) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
