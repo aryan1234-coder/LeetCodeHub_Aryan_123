@@ -16,26 +16,39 @@
 class Solution {
     public int rangeSumBST(TreeNode root, int low, int high) {
 
-        ArrayList<Integer> ans=new ArrayList<>();
-        helper(root,low,high,ans);
-        int sum=0;
-        for(int i=0;i<ans.size();i++){
-            sum=sum+ans.get(i);
-        }
-        return sum;
-        
-    }
 
-    public void helper(TreeNode root,int low,int high,List<Integer> ans){
-       
         if(root==null){
-            return;
+            return 0;
         }
-        helper(root.left, low, high,ans);
+
         if(root.val>=low && root.val<=high){
-           ans.add(root.val);
             
-        }
-        helper(root.right,low, high,ans);
+             return root.val+rangeSumBST(root.left,low,high)+rangeSumBST(root.right,low,high);
+       }
+      if(root.val<low){
+        return rangeSumBST(root.right,low,high);
+      }
+      return  rangeSumBST(root.left,low,high);
+    //     ArrayList<Integer> ans=new ArrayList<>();
+    //     helper(root,low,high,ans);
+    //     int sum=0;
+    //     for(int i=0;i<ans.size();i++){
+    //         sum=sum+ans.get(i);
+    //     }
+    //     return sum;
+        
+    // }
+
+    // public void helper(TreeNode root,int low,int high,List<Integer> ans){
+       
+    //     if(root==null){
+    //         return;
+    //     }
+    //     helper(root.left, low, high,ans);
+    //     if(root.val>=low && root.val<=high){
+    //        ans.add(root.val);
+            
+    //     }
+    //     helper(root.right,low, high,ans);
     }
 }
