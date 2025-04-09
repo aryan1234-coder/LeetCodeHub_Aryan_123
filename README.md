@@ -238,6 +238,7 @@ LeetCode Problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0386-lexicographical-numbers) |
@@ -275,6 +276,7 @@ LeetCode Problems
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0437-path-sum-iii) |
@@ -292,6 +294,7 @@ LeetCode Problems
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -303,6 +306,7 @@ LeetCode Problems
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0437-path-sum-iii) |
