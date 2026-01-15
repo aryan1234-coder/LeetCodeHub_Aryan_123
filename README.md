@@ -25,6 +25,7 @@ LeetCode Problems
 | [0882-peak-index-in-a-mountain-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0907-koko-eating-bananas) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1127-last-stone-weight) |
 | [1207-delete-nodes-and-return-forest](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1207-delete-nodes-and-return-forest) |
@@ -128,6 +129,7 @@ LeetCode Problems
 | [0264-ugly-number-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0264-ugly-number-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0870-magic-squares-in-grid](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0870-magic-squares-in-grid) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -216,6 +218,7 @@ LeetCode Problems
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2574-left-and-right-sum-differences](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2574-left-and-right-sum-differences) |
