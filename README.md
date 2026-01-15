@@ -9,6 +9,7 @@ LeetCode Problems
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0162-find-peak-element) |
@@ -66,6 +67,7 @@ LeetCode Problems
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0018-4sum) |
 | [0287-find-the-duplicate-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -97,6 +99,7 @@ LeetCode Problems
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0018-4sum) |
 | [0179-largest-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0455-assign-cookies) |
