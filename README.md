@@ -20,6 +20,7 @@ LeetCode Problems
 | [0539-minimum-time-difference](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0724-find-pivot-index](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0724-find-pivot-index) |
 | [0870-magic-squares-in-grid](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0870-magic-squares-in-grid) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0890-lemonade-change) |
@@ -213,6 +214,7 @@ LeetCode Problems
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0724-find-pivot-index) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [3643-zero-array-transformation-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3643-zero-array-transformation-ii) |
