@@ -1,42 +1,54 @@
 class Solution {
-
-    List<String>  list=new ArrayList<>();
-
     public List<String> letterCombinations(String digits) {
 
-         if(digits.length()==0){
-            return new ArrayList<>();
-         }
-        HashMap<Character,String> map=new HashMap<>();
 
-        map.put('2',"abc");
-        map.put('3',"def");
+    
+
+       String p="";
+       HashMap<Character,String> map=new HashMap<>();
+       List<String> ans= new ArrayList<>();
+
+        if (digits == null || digits.length() == 0) {
+            return ans;
+        }
+       map.put('2',"abc");
+       map.put('3',"def");
+
         map.put('4',"ghi");
-        map.put('5',"jkl");
-        map.put('6',"mno");
-        map.put('7',"pqrs");
-        map.put('8',"tuv");
-        map.put('9',"wxyz");
+         map.put('5',"jkl");
+          map.put('6',"mno");
+           map.put('7',"pqrs");
+            map.put('8',"tuv");
+             map.put('9',"wxyz");
 
-        StringBuilder sb=new StringBuilder("");
-        makeString(sb,map,digits);
-        return list;
-
-
-
-
+    
+      
+        
+        combinations(p,digits,map,ans);
+        return ans;
         
     }
-    public void makeString(StringBuilder sb,Map<Character,String> map,String digits){
+
+    public static void combinations(String p, String digits, HashMap<Character,String> map, List<String> result){
+
         if(digits.length()==0){
-            list.add(sb.toString());
+            result .add(p);
             return;
         }
-        String str=map.get(digits.charAt(0));
-        for(int i=0;i<str.length();i++){
-            sb.append(str.charAt(i));
-            makeString(sb,map,digits.substring(1));
-            sb.deleteCharAt(sb.length()-1);
+        char d=digits.charAt(0);
+
+         if (!map.containsKey(d)) {
+            combinations(p, digits.substring(1), map, result);
+            return;
         }
+        String letters=map.get(d);
+
+        for(char c: letters.toCharArray()){
+
+            combinations(p+c,digits.substring(1),map,result);
+
+        }
+
+                
     }
 }
