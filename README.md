@@ -56,6 +56,7 @@ LeetCode Problems
 | [2888-minimum-index-of-a-valid-split](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-alternating-groups-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3643-zero-array-transformation-ii) |
@@ -206,6 +207,7 @@ LeetCode Problems
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## String
 |  |
 | ------- |
