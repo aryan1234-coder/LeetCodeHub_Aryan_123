@@ -15,6 +15,7 @@ LeetCode Problems
 | [0046-permutations](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0051-n-queens) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0179-largest-number) |
 | [0287-find-the-duplicate-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0287-find-the-duplicate-number) |
@@ -177,6 +178,7 @@ LeetCode Problems
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0435-non-overlapping-intervals) |
