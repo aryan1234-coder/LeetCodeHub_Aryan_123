@@ -14,30 +14,25 @@
  * }
  */
 class Solution {
-    boolean flag=true;
-
     public boolean isValidBST(TreeNode root) {
+            
+            return helper(root,null,null);
 
-        TreeNode[] prev=new TreeNode[1];
-
-        inOrder(root,prev);
-
-        return flag;
         
     }
-    public void inOrder(TreeNode root,TreeNode[] prev){
+    public boolean helper(TreeNode root,TreeNode left,TreeNode right){
         if(root==null){
-            return ;
+            return true;
         }
+        if(left!=null && root.val<=left.val){
+                return false;
+        }
+          if(right!=null && root.val>=right.val){
+                return false;
+        }
+        boolean leftTree=helper(root.left,left,root);
+        boolean rightTree=helper(root.right,root,right);
 
-        inOrder(root.left,prev);
-        if(prev[0]!=null){
-        if(prev[0].val>=root.val){
-            flag= false;
-        }
-        }
-        prev[0]=root;
-         inOrder(root.right,prev);
-
+        return leftTree & rightTree;
     }
 }
