@@ -25,10 +25,7 @@ class Solution {
             return root;
         }
 
-        if(leftSide!=null){
-            return leftSide;
-        }
-        return rightSide;
+       return leftSide==null ? rightSide : leftSide;
         
     }
 }
