@@ -131,6 +131,7 @@ LeetCode Problems
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0725-split-linked-list-in-parts) |
@@ -277,6 +278,7 @@ LeetCode Problems
 | [0098-validate-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0226-invert-binary-tree) |
@@ -312,6 +314,7 @@ LeetCode Problems
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -326,6 +329,7 @@ LeetCode Problems
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0226-invert-binary-tree) |
@@ -366,6 +370,7 @@ LeetCode Problems
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0226-invert-binary-tree) |
