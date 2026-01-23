@@ -228,6 +228,7 @@ LeetCode Problems
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0179-largest-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0241-different-ways-to-add-parentheses) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0539-minimum-time-difference](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0539-minimum-time-difference) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -286,6 +287,7 @@ LeetCode Problems
 | [0226-invert-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -339,6 +341,7 @@ LeetCode Problems
 | [0226-invert-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -383,6 +386,7 @@ LeetCode Problems
 | [0226-invert-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -409,6 +413,7 @@ LeetCode Problems
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -434,4 +439,8 @@ LeetCode Problems
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
