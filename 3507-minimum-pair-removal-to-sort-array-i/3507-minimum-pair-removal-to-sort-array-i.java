@@ -1,7 +1,9 @@
 class Solution {
     public int minimumPairRemoval(int[] nums) {
 
-        /// greedy approach like find the adjacent sum until you get minimum and then assign to that in list 
+        /// greedy approach like
+        // find the adjacent sum 
+        //until you get minimum and then assign to that in list 
 
        
         int operations=0;
