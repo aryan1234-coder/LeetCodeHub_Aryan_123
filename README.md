@@ -69,6 +69,7 @@ LeetCode Problems
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0410-split-array-largest-sum) |
@@ -283,6 +284,7 @@ LeetCode Problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -337,6 +339,7 @@ LeetCode Problems
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -382,6 +385,7 @@ LeetCode Problems
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0230-kth-smallest-element-in-a-bst) |
