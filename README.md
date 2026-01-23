@@ -14,6 +14,7 @@ LeetCode Problems
 | [0035-search-insert-position](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0051-n-queens) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0162-find-peak-element) |
@@ -143,6 +144,7 @@ LeetCode Problems
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0264-ugly-number-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0264-ugly-number-ii) |
 | [0575-distribute-candies](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -329,6 +331,7 @@ LeetCode Problems
 | [0102-binary-tree-level-order-traversal](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -372,6 +375,7 @@ LeetCode Problems
 | [0102-binary-tree-level-order-traversal](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -414,6 +418,7 @@ LeetCode Problems
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1285-balance-a-binary-search-tree) |
 ## Backtracking
 |  |
