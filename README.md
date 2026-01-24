@@ -42,6 +42,7 @@ LeetCode Problems
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1923-sentence-similarity-iii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1923-sentence-similarity-iii) |
