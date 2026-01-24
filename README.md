@@ -43,6 +43,7 @@ LeetCode Problems
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1923-sentence-similarity-iii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -84,6 +85,7 @@ LeetCode Problems
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1923-sentence-similarity-iii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1923-sentence-similarity-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -119,6 +121,7 @@ LeetCode Problems
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -197,6 +200,7 @@ LeetCode Problems
 | [0624-maximum-distance-in-arrays](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0890-lemonade-change) |
 | [1285-balance-a-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1285-balance-a-binary-search-tree) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
