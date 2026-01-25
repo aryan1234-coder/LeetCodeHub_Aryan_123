@@ -47,6 +47,7 @@ LeetCode Problems
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1923-sentence-similarity-iii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -123,6 +124,7 @@ LeetCode Problems
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -317,6 +319,7 @@ LeetCode Problems
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1248-count-number-of-nice-subarrays) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3483-alternating-groups-ii) |
 ## Combinatorics
