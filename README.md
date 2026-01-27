@@ -147,6 +147,7 @@ LeetCode Problems
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0706-design-hashmap](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0706-design-hashmap) |
 | [0725-split-linked-list-in-parts](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0725-split-linked-list-in-parts) |
+| [1367-linked-list-in-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1367-linked-list-in-binary-tree) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2573-remove-nodes-from-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -315,6 +316,7 @@ LeetCode Problems
 | [1207-delete-nodes-and-return-forest](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1285-balance-a-binary-search-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1367-linked-list-in-binary-tree) |
 ## Trie
 |  |
 | ------- |
@@ -373,6 +375,7 @@ LeetCode Problems
 | [1207-delete-nodes-and-return-forest](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1285-balance-a-binary-search-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -419,6 +422,7 @@ LeetCode Problems
 | [1207-delete-nodes-and-return-forest](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1285-balance-a-binary-search-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1367-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
