@@ -319,6 +319,7 @@ LeetCode Problems
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1285-balance-a-binary-search-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1367-linked-list-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1971-find-if-path-exists-in-graph) |
 ## Trie
 |  |
 | ------- |
@@ -443,6 +444,7 @@ LeetCode Problems
 | [0993-cousins-in-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0993-cousins-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1971-find-if-path-exists-in-graph](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1971-find-if-path-exists-in-graph) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -471,4 +473,12 @@ LeetCode Problems
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0706-design-hashmap) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
