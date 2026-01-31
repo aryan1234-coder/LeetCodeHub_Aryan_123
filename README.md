@@ -30,6 +30,7 @@ LeetCode Problems
 | [0706-design-hashmap](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0706-design-hashmap) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0870-magic-squares-in-grid](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0870-magic-squares-in-grid) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0890-lemonade-change) |
@@ -106,6 +107,7 @@ LeetCode Problems
 | [0410-split-array-largest-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0410-split-array-largest-sum) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1056-capacity-to-ship-packages-within-d-days) |
