@@ -64,6 +64,7 @@ LeetCode Problems
 | [2690-house-robber-iv](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -136,6 +137,7 @@ LeetCode Problems
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Database
 |  |
 | ------- |
@@ -487,4 +489,8 @@ LeetCode Problems
 | ------- |
 | [0133-clone-graph](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0133-clone-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1971-find-if-path-exists-in-graph) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
