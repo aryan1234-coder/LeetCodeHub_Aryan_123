@@ -72,6 +72,7 @@ LeetCode Problems
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-alternating-groups-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3483-alternating-groups-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3637-trionic-array-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3637-trionic-array-i) |
 | [3643-zero-array-transformation-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3643-zero-array-transformation-ii) |
 ## Dynamic Programming
 |  |
