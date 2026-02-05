@@ -11,10 +11,10 @@ class Solution {
                 result[i] = nums[newIndex];
 
             } else if (nums[i] < 0) {
-                int newIndex = (i + nums[i]) % n;
-                if (newIndex < 0) {
-                    newIndex += n;
-                }
+                int newIndex = (((i + nums[i]) % n) + n) % n;
+                // if (newIndex < 0) {
+                //     newIndex += n;
+                // }
                 result[i] = nums[newIndex];
 
             } else { // nums[i] == 0
