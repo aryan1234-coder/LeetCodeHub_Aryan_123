@@ -65,6 +65,7 @@ LeetCode Problems
 | [2690-house-robber-iv](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -186,6 +187,7 @@ LeetCode Problems
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
