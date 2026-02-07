@@ -75,6 +75,7 @@ LeetCode Problems
 | [3379-transformed-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3379-transformed-array) |
 | [3483-alternating-groups-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3483-alternating-groups-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3637-trionic-array-i) |
 | [3643-zero-array-transformation-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3643-zero-array-transformation-ii) |
 ## Dynamic Programming
@@ -144,6 +145,7 @@ LeetCode Problems
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3634-minimum-removals-to-balance-array) |
 ## Database
 |  |
 | ------- |
@@ -347,6 +349,7 @@ LeetCode Problems
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3483-alternating-groups-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3634-minimum-removals-to-balance-array) |
 ## Combinatorics
 |  |
 | ------- |
