@@ -28,6 +28,7 @@ LeetCode Problems
 | [0539-minimum-time-difference](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0539-minimum-time-difference) |
 | [0575-distribute-candies](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0605-can-place-flowers](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0624-maximum-distance-in-arrays) |
 | [0654-maximum-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0654-maximum-binary-tree) |
 | [0706-design-hashmap](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0706-design-hashmap) |
@@ -231,6 +232,7 @@ LeetCode Problems
 | [0435-non-overlapping-intervals](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0605-can-place-flowers](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0624-maximum-distance-in-arrays) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0769-max-chunks-to-make-sorted) |
