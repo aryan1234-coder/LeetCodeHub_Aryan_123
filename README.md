@@ -25,6 +25,7 @@ LeetCode Problems
 | [0410-split-array-largest-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0539-minimum-time-difference) |
 | [0575-distribute-candies](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0581-shortest-unsorted-continuous-subarray) |
