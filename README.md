@@ -102,6 +102,7 @@ LeetCode Problems
 | ------- |
 | [0018-4sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0143-reorder-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -173,6 +174,7 @@ LeetCode Problems
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0143-reorder-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0143-reorder-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0706-design-hashmap](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0706-design-hashmap) |
 | [0725-split-linked-list-in-parts](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0725-split-linked-list-in-parts) |
@@ -324,6 +326,7 @@ LeetCode Problems
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0143-reorder-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0241-different-ways-to-add-parentheses) |
 | [2573-remove-nodes-from-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2573-remove-nodes-from-linked-list) |
 ## Memoization
@@ -383,6 +386,7 @@ LeetCode Problems
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0143-reorder-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0654-maximum-binary-tree) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0768-max-chunks-to-make-sorted-ii) |
