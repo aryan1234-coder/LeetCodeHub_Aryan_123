@@ -44,6 +44,7 @@ LeetCode Problems
 | [0890-lemonade-change](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0907-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0994-rotting-oranges](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0994-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1127-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1200-minimum-absolute-difference) |
@@ -231,6 +232,7 @@ LeetCode Problems
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0870-magic-squares-in-grid) |
+| [0994-rotting-oranges](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0994-rotting-oranges) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -514,6 +516,7 @@ LeetCode Problems
 | [0637-average-of-levels-in-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0994-rotting-oranges) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1971-find-if-path-exists-in-graph) |
