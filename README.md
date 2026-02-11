@@ -186,6 +186,7 @@ LeetCode Problems
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0133-clone-graph) |
@@ -279,6 +280,7 @@ LeetCode Problems
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0179-largest-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0241-different-ways-to-add-parentheses) |
@@ -373,6 +375,7 @@ LeetCode Problems
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1248-count-number-of-nice-subarrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
