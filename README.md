@@ -15,6 +15,7 @@ LeetCode Problems
 | [0035-search-insert-position](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0135-candy) |
@@ -235,6 +236,7 @@ LeetCode Problems
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0870-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0994-rotting-oranges) |
@@ -292,6 +294,7 @@ LeetCode Problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -349,6 +352,7 @@ LeetCode Problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -545,6 +549,7 @@ LeetCode Problems
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0079-word-search) |
 ## Doubly-Linked List
 |  |
 | ------- |
