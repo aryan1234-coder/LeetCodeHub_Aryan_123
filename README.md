@@ -87,6 +87,7 @@ LeetCode Problems
 | [3637-trionic-array-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3637-trionic-array-i) |
 | [3643-zero-array-transformation-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3643-zero-array-transformation-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3721-longest-balanced-subarray-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -213,6 +214,7 @@ LeetCode Problems
 | [2956-find-common-elements-between-two-arrays](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3721-longest-balanced-subarray-ii) |
 ## Math
 |  |
 | ------- |
@@ -316,6 +318,7 @@ LeetCode Problems
 | [2574-left-and-right-sum-differences](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2574-left-and-right-sum-differences) |
 | [3643-zero-array-transformation-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3643-zero-array-transformation-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3721-longest-balanced-subarray-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -528,6 +531,7 @@ LeetCode Problems
 | [1285-balance-a-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1285-balance-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3721-longest-balanced-subarray-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -573,4 +577,5 @@ LeetCode Problems
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3721-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->
