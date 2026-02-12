@@ -216,6 +216,7 @@ LeetCode Problems
 | [2888-minimum-index-of-a-valid-split](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3713-longest-balanced-substring-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3721-longest-balanced-subarray-ii) |
 ## Math
@@ -306,6 +307,7 @@ LeetCode Problems
 | [1923-sentence-similarity-iii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1923-sentence-similarity-iii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3713-longest-balanced-substring-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
 | ------- |
@@ -313,6 +315,7 @@ LeetCode Problems
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3713-longest-balanced-substring-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3713-longest-balanced-substring-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -581,6 +584,7 @@ LeetCode Problems
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3713-longest-balanced-substring-i) |
 ## Data Stream
 |  |
 | ------- |
