@@ -22,6 +22,7 @@ LeetCode Problems
 | [0152-maximum-product-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0435-non-overlapping-intervals) |
@@ -240,6 +241,7 @@ LeetCode Problems
 |  |
 | ------- |
 | [0079-word-search](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0870-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0994-rotting-oranges) |
@@ -368,6 +370,7 @@ LeetCode Problems
 | [0124-binary-tree-maximum-path-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -529,6 +532,7 @@ LeetCode Problems
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -579,6 +583,7 @@ LeetCode Problems
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
