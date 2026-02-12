@@ -57,6 +57,7 @@ LeetCode Problems
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -247,6 +248,7 @@ LeetCode Problems
 | [0994-rotting-oranges](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Greedy
@@ -392,6 +394,7 @@ LeetCode Problems
 | [1285-balance-a-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1285-balance-a-binary-search-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1367-linked-list-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1382-balance-a-binary-search-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1971-find-if-path-exists-in-graph) |
 ## Trie
 |  |
@@ -545,6 +548,7 @@ LeetCode Problems
 | [0998-check-completeness-of-a-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1971-find-if-path-exists-in-graph) |
 ## Divide and Conquer
 |  |
@@ -585,6 +589,7 @@ LeetCode Problems
 | ------- |
 | [0200-number-of-islands](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0547-number-of-provinces) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
