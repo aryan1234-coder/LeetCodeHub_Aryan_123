@@ -221,6 +221,7 @@ LeetCode Problems
 | [2956-find-common-elements-between-two-arrays](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3713-longest-balanced-substring-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3721-longest-balanced-subarray-ii) |
 ## Math
@@ -314,6 +315,7 @@ LeetCode Problems
 | [2163-kth-distinct-string-in-an-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3713-longest-balanced-substring-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3714-longest-balanced-substring-ii) |
 ## Counting
 |  |
 | ------- |
@@ -334,6 +336,7 @@ LeetCode Problems
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2574-left-and-right-sum-differences](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2574-left-and-right-sum-differences) |
 | [3643-zero-array-transformation-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3643-zero-array-transformation-ii) |
+| [3714-longest-balanced-substring-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3721-longest-balanced-subarray-ii) |
 ## Brainteaser
