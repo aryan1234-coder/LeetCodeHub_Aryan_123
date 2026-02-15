@@ -229,6 +229,7 @@ LeetCode Problems
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0067-add-binary) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0539-minimum-time-difference) |
@@ -289,6 +290,7 @@ LeetCode Problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0287-find-the-duplicate-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -302,6 +304,7 @@ LeetCode Problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0067-add-binary](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0179-largest-number) |
@@ -347,6 +350,7 @@ LeetCode Problems
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0067-add-binary) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2551-apply-operations-to-an-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2551-apply-operations-to-an-array) |
 | [3379-transformed-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3379-transformed-array) |
