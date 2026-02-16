@@ -232,6 +232,7 @@ LeetCode Problems
 | ------- |
 | [0050-powx-n](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0067-add-binary) |
+| [0227-basic-calculator-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0539-minimum-time-difference) |
@@ -313,6 +314,7 @@ LeetCode Problems
 | [0079-word-search](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0179-largest-number) |
+| [0227-basic-calculator-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0539-minimum-time-difference](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0539-minimum-time-difference) |
@@ -434,6 +436,7 @@ LeetCode Problems
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0143-reorder-list) |
+| [0227-basic-calculator-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0227-basic-calculator-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0654-maximum-binary-tree) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0768-max-chunks-to-make-sorted-ii) |
