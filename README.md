@@ -297,6 +297,7 @@ LeetCode Problems
 | [0067-add-binary](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0287-find-the-duplicate-number) |
+| [0401-binary-watch](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0401-binary-watch) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -586,6 +587,7 @@ LeetCode Problems
 | [0046-permutations](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0079-word-search) |
+| [0401-binary-watch](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0401-binary-watch) |
 ## Doubly-Linked List
 |  |
 | ------- |
