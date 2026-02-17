@@ -20,6 +20,7 @@ LeetCode Problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0179-largest-number) |
@@ -232,6 +233,7 @@ LeetCode Problems
 | ------- |
 | [0050-powx-n](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0264-ugly-number-ii) |
@@ -437,6 +439,7 @@ LeetCode Problems
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0227-basic-calculator-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0654-maximum-binary-tree) |
