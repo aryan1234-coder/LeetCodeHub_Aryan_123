@@ -440,6 +440,7 @@ LeetCode Problems
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0227-basic-calculator-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0654-maximum-binary-tree) |
@@ -602,6 +603,7 @@ LeetCode Problems
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0706-design-hashmap](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0901-online-stock-span) |
@@ -637,4 +639,8 @@ LeetCode Problems
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3721-longest-balanced-subarray-ii) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
