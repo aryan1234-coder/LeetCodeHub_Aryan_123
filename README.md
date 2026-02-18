@@ -49,6 +49,7 @@ LeetCode Problems
 | [0890-lemonade-change](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0907-sum-of-subarray-minimums) |
+| [0973-k-closest-points-to-origin](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1046-last-stone-weight) |
@@ -165,6 +166,7 @@ LeetCode Problems
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0769-max-chunks-to-make-sorted) |
+| [0973-k-closest-points-to-origin](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1200-minimum-absolute-difference) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -243,6 +245,7 @@ LeetCode Problems
 | [0539-minimum-time-difference](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0539-minimum-time-difference) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0870-magic-squares-in-grid](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0870-magic-squares-in-grid) |
+| [0973-k-closest-points-to-origin](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1248-count-number-of-nice-subarrays) |
 | [1307-ugly-number-iii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1307-ugly-number-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -285,6 +288,7 @@ LeetCode Problems
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0264-ugly-number-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -593,6 +597,7 @@ LeetCode Problems
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0190-reverse-bits) |
 | [0654-maximum-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0654-maximum-binary-tree) |
+| [0973-k-closest-points-to-origin](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0973-k-closest-points-to-origin) |
 | [1285-balance-a-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1285-balance-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3719-longest-balanced-subarray-i) |
@@ -656,4 +661,12 @@ LeetCode Problems
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0225-implement-stack-using-queues) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
