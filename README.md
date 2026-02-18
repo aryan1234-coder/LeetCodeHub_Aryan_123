@@ -26,6 +26,7 @@ LeetCode Problems
 | [0179-largest-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0455-assign-cookies) |
@@ -107,6 +108,7 @@ LeetCode Problems
 | [0152-maximum-product-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0264-ugly-number-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0435-non-overlapping-intervals) |
 | [0799-champagne-tower](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0799-champagne-tower) |
@@ -138,6 +140,7 @@ LeetCode Problems
 | [0035-search-insert-position](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0611-valid-triangle-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0668-kth-smallest-number-in-multiplication-table) |
