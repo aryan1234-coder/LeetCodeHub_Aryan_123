@@ -10,14 +10,18 @@ class Solution {
             if (s.charAt(i) == s.charAt(i - 1)) {
                 currGroup++;
             } else {
-                result += Math.min(prevGroup, currGroup);
+                
                 prevGroup = currGroup;
                 currGroup = 1;
+            }
+
+            if (currGroup <= prevGroup){
+        result++;
             }
         }
 
         // Add last group comparison
-        result += Math.min(prevGroup, currGroup);
+        
 
         return result;
         
