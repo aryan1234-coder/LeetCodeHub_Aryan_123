@@ -15,6 +15,7 @@ LeetCode Problems
 | [0035-search-insert-position](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -103,6 +104,7 @@ LeetCode Problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0152-maximum-product-subarray) |
@@ -259,6 +261,7 @@ LeetCode Problems
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0200-number-of-islands) |
