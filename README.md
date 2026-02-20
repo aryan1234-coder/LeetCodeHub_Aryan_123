@@ -47,6 +47,7 @@ LeetCode Problems
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0769-max-chunks-to-make-sorted) |
 | [0870-magic-squares-in-grid](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0870-magic-squares-in-grid) |
+| [0881-boats-to-save-people](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0907-koko-eating-bananas) |
@@ -130,6 +131,7 @@ LeetCode Problems
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0881-boats-to-save-people](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0881-boats-to-save-people) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1923-sentence-similarity-iii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1923-sentence-similarity-iii) |
@@ -172,6 +174,7 @@ LeetCode Problems
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0769-max-chunks-to-make-sorted) |
+| [0881-boats-to-save-people](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1200-minimum-absolute-difference) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -287,6 +290,7 @@ LeetCode Problems
 | [0624-maximum-distance-in-arrays](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0624-maximum-distance-in-arrays) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0769-max-chunks-to-make-sorted) |
+| [0881-boats-to-save-people](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0890-lemonade-change) |
 | [1285-balance-a-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1285-balance-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1382-balance-a-binary-search-tree) |
