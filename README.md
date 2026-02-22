@@ -25,6 +25,7 @@ LeetCode Problems
 | [0152-maximum-product-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0300-longest-increasing-subsequence) |
@@ -123,6 +124,7 @@ LeetCode Problems
 | [0018-4sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0143-reorder-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -249,6 +251,7 @@ LeetCode Problems
 | [0050-powx-n](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0264-ugly-number-ii) |
