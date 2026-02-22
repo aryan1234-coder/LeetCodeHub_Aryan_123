@@ -322,6 +322,7 @@ LeetCode Problems
 | [0401-binary-watch](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0868-binary-gap) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1786-count-the-number-of-consistent-strings) |
