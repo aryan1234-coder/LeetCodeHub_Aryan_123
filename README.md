@@ -55,6 +55,7 @@ LeetCode Problems
 | [0907-sum-of-subarray-minimums](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0907-sum-of-subarray-minimums) |
 | [0973-k-closest-points-to-origin](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0983-minimum-cost-for-tickets](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1046-last-stone-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -117,6 +118,7 @@ LeetCode Problems
 | [0435-non-overlapping-intervals](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0435-non-overlapping-intervals) |
 | [0799-champagne-tower](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0799-champagne-tower) |
 | [0907-sum-of-subarray-minimums](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0907-sum-of-subarray-minimums) |
+| [0983-minimum-cost-for-tickets](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0983-minimum-cost-for-tickets) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Two Pointers
 |  |
