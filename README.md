@@ -302,6 +302,7 @@ LeetCode Problems
 | [0890-lemonade-change](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0890-lemonade-change) |
 | [1285-balance-a-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1285-balance-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1382-balance-a-binary-search-tree) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Heap (Priority Queue)
 |  |
@@ -358,6 +359,7 @@ LeetCode Problems
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1923-sentence-similarity-iii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2163-kth-distinct-string-in-an-array) |
