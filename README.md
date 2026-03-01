@@ -57,6 +57,7 @@ LeetCode Problems
 | [0974-subarray-sums-divisible-by-k](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0983-minimum-cost-for-tickets](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1046-last-stone-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -157,6 +158,7 @@ LeetCode Problems
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0907-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1307-ugly-number-iii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1307-ugly-number-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -381,6 +383,7 @@ LeetCode Problems
 | [0410-split-array-largest-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1248-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -464,6 +467,7 @@ LeetCode Problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0076-minimum-window-substring) |
+| [1004-max-consecutive-ones-iii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1248-count-number-of-nice-subarrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
