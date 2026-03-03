@@ -127,6 +127,7 @@ LeetCode Problems
 | [0799-champagne-tower](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0799-champagne-tower) |
 | [0907-sum-of-subarray-minimums](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0907-sum-of-subarray-minimums) |
 | [0983-minimum-cost-for-tickets](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0983-minimum-cost-for-tickets) |
+| [1143-longest-common-subsequence](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1143-longest-common-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Two Pointers
 |  |
@@ -366,6 +367,7 @@ LeetCode Problems
 | [0539-minimum-time-difference](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0539-minimum-time-difference) |
 | [0696-count-binary-substrings](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0761-special-binary-string) |
+| [1143-longest-common-subsequence](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1143-longest-common-subsequence) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
