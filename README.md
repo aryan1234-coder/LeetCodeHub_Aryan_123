@@ -68,6 +68,7 @@ LeetCode Problems
 | [1200-minimum-absolute-difference](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1200-minimum-absolute-difference) |
 | [1207-delete-nodes-and-return-forest](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1207-delete-nodes-and-return-forest) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1248-count-number-of-nice-subarrays) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
