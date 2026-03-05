@@ -67,6 +67,7 @@ LeetCode Problems
 | [1127-last-stone-weight](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1127-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1200-minimum-absolute-difference) |
 | [1207-delete-nodes-and-return-forest](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1207-delete-nodes-and-return-forest) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -129,6 +130,7 @@ LeetCode Problems
 | [0907-sum-of-subarray-minimums](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0907-sum-of-subarray-minimums) |
 | [0983-minimum-cost-for-tickets](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0983-minimum-cost-for-tickets) |
 | [1143-longest-common-subsequence](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1143-longest-common-subsequence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Two Pointers
 |  |
@@ -169,6 +171,7 @@ LeetCode Problems
 | [0907-koko-eating-bananas](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1307-ugly-number-iii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1307-ugly-number-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -193,6 +196,7 @@ LeetCode Problems
 | [0881-boats-to-save-people](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1200-minimum-absolute-difference) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1615-range-sum-of-sorted-subarray-sums) |
