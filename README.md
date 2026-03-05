@@ -20,6 +20,7 @@ LeetCode Problems
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0130-surrounded-regions) |
+| [0134-gas-station](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0152-maximum-product-subarray) |
@@ -303,6 +304,7 @@ LeetCode Problems
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0410-split-array-largest-sum) |
