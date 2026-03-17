@@ -363,6 +363,7 @@ LeetCode Problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0079-word-search) |
@@ -501,6 +502,7 @@ LeetCode Problems
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0150-evaluate-reverse-polish-notation) |
