@@ -19,16 +19,13 @@ class Solution {
  
             }
 
-            if((stk.peek()=='(' && c==')') || (stk.peek()=='{' && c=='}') || (stk.peek()=='[' && c==']')) {
+            else if(( !stk.isEmpty() && stk.peek()=='(' && c==')') || ( !stk.isEmpty() && stk.peek()=='{' && c=='}') || (!stk.isEmpty() && stk.peek()=='[' && c==']')) {
 
                  stk.pop();
             }
-
-
- 
- 
-    
- 
+           else{
+            return false;
+           }
             
       }
 
