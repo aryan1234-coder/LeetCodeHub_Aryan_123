@@ -117,6 +117,7 @@ LeetCode Problems
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0064-minimum-path-sum) |
+| [0115-distinct-subsequences](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0152-maximum-product-subarray) |
@@ -369,6 +370,7 @@ LeetCode Problems
 | [0067-add-binary](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0227-basic-calculator-ii) |
