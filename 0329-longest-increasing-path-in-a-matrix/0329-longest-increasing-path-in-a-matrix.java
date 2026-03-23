@@ -44,7 +44,7 @@ class Solution {
 
             
         }
-
-        return dp[i][j]=ans;
+        dp[i][j]=ans;
+        return dp[i][j];
     }
 }
