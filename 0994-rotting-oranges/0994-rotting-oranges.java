@@ -23,8 +23,8 @@ class Solution {
         }
        int minutes=0;
 
-        while(!queue.isEmpty()){
-            boolean rotted=false;
+        while(!queue.isEmpty() && freasheoranges>0){
+           minutes++;
             int length=queue.size();
             for(int i=0;i<length;i++){
                 int[] current=queue.poll();
@@ -37,13 +37,11 @@ class Solution {
                         grid[d1][d2]=2;
                         queue.offer(new int[]{d1,d2});
                         freasheoranges--;
-                        rotted=true;
+                        
                     }
                 }
             }
-            if(rotted){
-                minutes++;
-            }
+           
 
         }
 
