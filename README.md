@@ -22,6 +22,7 @@ LeetCode Problems
 | [0130-surrounded-regions](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0162-find-peak-element) |
@@ -121,6 +122,7 @@ LeetCode Problems
 | [0115-distinct-subsequences](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0213-house-robber-ii) |
@@ -248,6 +250,7 @@ LeetCode Problems
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0264-ugly-number-ii) |
 | [0575-distribute-candies](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -380,6 +383,7 @@ LeetCode Problems
 | [0079-word-search](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0241-different-ways-to-add-parentheses) |
@@ -449,6 +453,7 @@ LeetCode Problems
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Depth-First Search
@@ -496,6 +501,7 @@ LeetCode Problems
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Sliding Window
