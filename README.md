@@ -133,6 +133,7 @@ LeetCode Problems
 | [0435-non-overlapping-intervals](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0518-coin-change-ii) |
 | [0799-champagne-tower](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0799-champagne-tower) |
+| [0887-super-egg-drop](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0887-super-egg-drop) |
 | [0907-sum-of-subarray-minimums](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0907-sum-of-subarray-minimums) |
 | [0983-minimum-cost-for-tickets](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0983-minimum-cost-for-tickets) |
 | [1143-longest-common-subsequence](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1143-longest-common-subsequence) |
@@ -175,6 +176,7 @@ LeetCode Problems
 | [0719-find-k-th-smallest-pair-distance](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0887-super-egg-drop](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0887-super-egg-drop) |
 | [0907-koko-eating-bananas](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -285,6 +287,7 @@ LeetCode Problems
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0870-magic-squares-in-grid](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0870-magic-squares-in-grid) |
+| [0887-super-egg-drop](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0887-super-egg-drop) |
 | [0973-k-closest-points-to-origin](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1248-count-number-of-nice-subarrays) |
 | [1307-ugly-number-iii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1307-ugly-number-iii) |
