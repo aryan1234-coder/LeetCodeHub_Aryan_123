@@ -133,6 +133,7 @@ LeetCode Problems
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0410-split-array-largest-sum](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0435-non-overlapping-intervals) |
+| [0516-longest-palindromic-subsequence](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0518-coin-change-ii) |
 | [0799-champagne-tower](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0799-champagne-tower) |
 | [0887-super-egg-drop](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0887-super-egg-drop) |
@@ -388,6 +389,7 @@ LeetCode Problems
 | [0227-basic-calculator-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0516-longest-palindromic-subsequence](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0539-minimum-time-difference) |
 | [0696-count-binary-substrings](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0761-special-binary-string) |
