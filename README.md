@@ -394,6 +394,7 @@ LeetCode Problems
 | [0696-count-binary-substrings](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0761-special-binary-string) |
 | [1143-longest-common-subsequence](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1143-longest-common-subsequence) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -538,6 +539,7 @@ LeetCode Problems
 | [0769-max-chunks-to-make-sorted](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0769-max-chunks-to-make-sorted) |
 | [0901-online-stock-span](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/0907-sum-of-subarray-minimums) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2573-remove-nodes-from-linked-list](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
