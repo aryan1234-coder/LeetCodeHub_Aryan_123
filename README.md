@@ -100,6 +100,7 @@ LeetCode Problems
 | [2690-house-robber-iv](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2906-construct-product-matrix](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2906-construct-product-matrix) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -320,6 +321,7 @@ LeetCode Problems
 | [1559-detect-cycles-in-2d-grid](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2906-construct-product-matrix](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2906-construct-product-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
 |  |
@@ -434,6 +436,7 @@ LeetCode Problems
 | [1435-xor-queries-of-a-subarray](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2574-left-and-right-sum-differences](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2574-left-and-right-sum-differences) |
+| [2906-construct-product-matrix](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2906-construct-product-matrix) |
 | [3643-zero-array-transformation-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3643-zero-array-transformation-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3719-longest-balanced-subarray-i) |
