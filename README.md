@@ -407,6 +407,7 @@ LeetCode Problems
 | [1923-sentence-similarity-iii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/1923-sentence-similarity-iii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/aryan1234-coder/LeetCodeHub_Aryan_123/tree/master/3714-longest-balanced-substring-ii) |
